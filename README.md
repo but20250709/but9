@@ -10,4 +10,4 @@
 
 <p>本站致力于为用户提供最新、最全的免费成人大片资源，内容丰富，播放流畅，分类详细，确保每位访客都能轻松找到满意的作品，享受高品质观影体验。</p>
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/but20250709/but9 ）</span>
